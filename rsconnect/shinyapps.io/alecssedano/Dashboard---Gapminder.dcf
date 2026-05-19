@@ -1,0 +1,12 @@
+name: Dashboard---Gapminder
+title: Dashboard---Gapminder
+username: alecssedano
+account: alecssedano
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17383904
+bundleId: 12011281
+url: https://alecssedano.shinyapps.io/Dashboard---Gapminder/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
